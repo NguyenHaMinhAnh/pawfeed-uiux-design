@@ -207,7 +207,7 @@ Trong giai đoạn MVP, PawFeed tập trung triển khai tại khu vực TP.HCM.
 
 Figma Prototype:
 
-[Thêm link Figma Prototype tại đây]
+https://www.figma.com/design/2PZciGKj3Ic9ktySnB8xWk/2321003951_NguyenHaMinhAnh?node-id=0-1&t=9LaSMoHmvhKkTRZW-1
 
 > Lưu ý: Link Figma cần được đặt quyền "Anyone with the link can view" để nhà tuyển dụng có thể mở và xem prototype.
 
