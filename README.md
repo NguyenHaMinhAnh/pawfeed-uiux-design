@@ -155,8 +155,8 @@ Trong giai đoạn MVP, PawFeed tập trung triển khai tại khu vực TP.HCM.
 
 ### Đăng nhập / Đăng ký
 
-![Login Register](ui-design/login-register.png)
-
+![Login Register](ui-design/login.png)
+![Login Register](ui-design/register.png)
 ### Onboarding
 
 ![Onboarding](ui-design/onboarding.png)
